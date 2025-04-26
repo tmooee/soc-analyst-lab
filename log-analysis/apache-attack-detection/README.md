@@ -19,3 +19,9 @@ This mini-project demonstrates how to detect brute force login attempts and susp
 - Splunk (or ELK stack)
 - Apache logs
 - Python (optional for parsing)
+
+## 🏁 How to Use
+
+1. Upload `apache_access.log` into Splunk
+2. Use detection queries from `splunk-searches.md`
+3. Review findings in `detection-summary.md`
